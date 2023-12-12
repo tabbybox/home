@@ -1,12 +1,17 @@
 # You might be good at one game
 
-But, what else you're good at? You spent days and nights, several days completely sleep 
-deprived to grind on the games, straight for weeks, for months. You did it! You attained the top of the playable contents and achieved max score on everything with your META (Most effective tactics available). But now what? Imagine the game closed down. Imagine your friends that still cares about the game no longer does, what will be the purpose of all thoseastronomical time you spent on it?
+But, what else you're good at?
+
+**The love hate relationship with gaming...**
+
+You spent days and nights, several days completely sleep 
+deprived to grind on the games, straight for weeks, for months. You did it!
+You attained the top of the playable contents and achieved max score on everything with your META (Most effective tactics available). 
+But now what? Imagine the game closed down. Imagine your friends that still cares about the game no longer does, what will be the purpose of all those astronomical time you spent on it?
 
 Wasted.
 
-The love hate relationship I always have with "gaming" in general is that, you 
-
+We loved playing games, and playing games  
 
 
 ---
