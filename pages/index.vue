@@ -9,17 +9,30 @@
 | >_       | /  ░█░ █▀█ █▄█ █▄█ ░█░ █▄█ █▄█ █░█
 +----------+       
   </pre>
-    <hr class="my-2"/>
+    <hr class="my-2" />
     <nav>
-      <span class="mx-2 my-1">
+      <!-- <span class="mx-2 my-1">
         "home"
       </span>
       <span class="mx-2 my-1">
         "about"
-      </span>
+      </span> -->
 
     </nav>
+    <p>{{ quote() }}</p>
   </div>
 </template>
 <script setup>
+const quotePool = [
+  'hello, i like dubstep.',
+  'headshot GG noob',
+  'i.e., the tissuebox',
+  'we make loud music',
+  'under heavy construction work',
+  '404 is not an error, it\'s your skill issue'
+]
+function quote() {
+  const i = Math.floor(Math.random() * quotePool.length)
+  return quotePool[i];
+}
 </script>
