@@ -17,6 +17,7 @@
     "wrangler": "^3.22.4"
   },
   "dependencies": {
+    "@nuxt/content": "^2.10.0",
     "@twind/core": "^1.1.3",
     "@twind/preset-autoprefix": "^1.0.7",
     "@twind/preset-tailwind": "^1.1.4"

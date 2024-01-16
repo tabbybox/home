@@ -1,5 +1,5 @@
 <template>
     <div>
-        words, based content
+        <ContentDoc></ContentDoc>
     </div>
 </template>
