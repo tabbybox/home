@@ -17,10 +17,11 @@
     <!-- Navbar -->
 
     <nav>
-      $ <span class="text-green-300">ls </span><br />
+      $ <span class="text-green-500">ls </span><br />
       <NuxtLink to="/" class="mr-2 text-teal-400">home</NuxtLink>
       <NuxtLink to="/sound" class="mx-2 text-blue-300">sounds</NuxtLink>
       <NuxtLink to="https://github.com/tabbybox" class="mx-2 text-blue-300" target="_blank">repo</NuxtLink>
+      <NuxtLink to="/words" class="mx-2 text-green-300">words</NuxtLink>
       <!-- <span class="mx-2 my-1">
         "home"
       </span>
