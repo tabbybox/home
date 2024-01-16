@@ -25,7 +25,7 @@
           class="w-40 h-40 cursor-pointer" @click="yo" @dblclick="learnScratch">
       <!-- </a> -->
     </div>
-    <p class="text-xs text-gray-400">Yes, it spins at 33 rpm</p>
+    <p class="text-xs text-gray-400">Yes, it spins at 33 rpm, try touching it slow and fast</p>
 
     <p>{{ quote() }}</p>
 
