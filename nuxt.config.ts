@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  css: ['@/assets/dont-flash.css'],
+  // css: ['@/assets/dont-flash.css'],
   app: {
     head: {
       link: [{
@@ -14,7 +14,8 @@ export default defineNuxtConfig({
   pages: true,
   ssr: true,
   modules: [
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/tailwindcss'
   ],
   // experimental:{
   //   inlineSSRStyles: false

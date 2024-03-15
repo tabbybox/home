@@ -1,5 +1,5 @@
 <template>
-  <div class="w-screen h-screen min-w-max bg-slate-900 text-white py-3 px-5 font-mono">
+  <div v-if="loaded" class="h-screen bg-slate-900 text-white py-3 px-5 font-mono" >
     <!-- the tabbybox, don't touch -->
     <div class="flex flex-wrap">
       <pre style="line-height: 1;">
@@ -32,9 +32,20 @@
 
     </nav>
     <hr class="my-2" />
-    <NuxtPage />
+    <NuxtPage></NuxtPage>
     <div class="fixed bottom-0 left-0 w-full text-center py-3">
       <span class="mx-2 text-xs text-slate-400">tabbybox.art (c) 2024</span>
     </div>
   </div>
 </template>
+
+<script setup lang="ts">
+
+// Solely here to stop the flash
+const loaded = ref(false)
+onMounted(() => {
+  loaded.value = true
+})
+
+
+</script>
