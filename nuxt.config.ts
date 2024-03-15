@@ -15,7 +15,8 @@ export default defineNuxtConfig({
   ssr: true,
   modules: [
     '@nuxt/content',
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@pinia/nuxt'
   ],
   // experimental:{
   //   inlineSSRStyles: false
