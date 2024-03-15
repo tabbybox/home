@@ -12,10 +12,10 @@
 | >_       | /
 +----------+  
   </pre>
-        <pre style="line-height: 1;" class="mt-5 ml-3">
+        <!-- <pre style="line-height: 1;" class="mt-5 ml-3">
 ▀█▀ ▄▀█ █▄▄ █▄▄ █▄█ █▄▄ █▀█ ▀▄▀
 ░█░ █▀█ █▄█ █▄█ ░█░ █▄█ █▄█ █░█
-  </pre>
+  </pre> -->
       </div>
       <!-- Navbar -->
 
